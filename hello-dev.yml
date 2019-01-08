@@ -1,8 +1,0 @@
-neo：
-  hello： hello im dev update-
-server:
-  port: 7000
-
-eureka:
-  client:
-    service-url: http://localhost:8000/eureka/
