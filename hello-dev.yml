@@ -1,4 +1,8 @@
-neo.hello = hello im dev update-
-server.port=7000
-
-eureka.client.service-url=http://localhost:8000/eureka/
+eureka:
+  client:
+    service-url:
+       defaultZone: http://localhost:8000/eureka/
+server:
+  port: 7001
+neo:
+  hello: git
