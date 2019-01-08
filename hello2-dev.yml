@@ -5,4 +5,4 @@ eureka:
 server:
   port: 7003
 neo:
-  hello: git
+  hello: git2-update
